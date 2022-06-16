@@ -1,0 +1,13 @@
+*.sqlite3
+
+venv
+
+virtualenv
+
+__pycache__
+
+*.pyc
+
+.idea
+
+.vscode[A[D[D[D[D[D[B[C[C[C[C[C[C[A[A[A[A[A[A[A[3~[3~[3~[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D
